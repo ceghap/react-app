@@ -1,4 +1,4 @@
-# React APP
+# React app
 
 This is just a template of react app build without Create React App generator. Contains combination of Babel & Webpack.  
 It is created for me to learn webpack & react.  
